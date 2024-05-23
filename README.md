@@ -2,7 +2,7 @@ The task was to analyze the employee data of a company to gain insights into var
 workforce. The dataset provided contains information about employees, their departments, salaries,
 titles, and managerial positions. Data set schema is available in excel file.
 Using SQL queries and data manipulation techniques.
-Here is the list of 30 Questions.Which I have Solved in the SQL Script You can refer to that queries through clicking on the below file.
+Here is the list of 30 Questions.Which I have Solved in the SQL Script You can refer to that queries through clicking on the Above file.
 1. Retrieve the first name and last name of all employees.
 2. Find the department numbers and names.
 3. Get the total number of employees.
